@@ -229,6 +229,9 @@ div[role=main]{
 	width: 500px;
 	margin: 2em auto;
 }
+h1 {
+	text-shadow: 4px 4px 1px white;
+}
 h1, h2 {
 	font-family: 'Fugaz One', cursive;
 	font-size: 72px;
